@@ -6,4 +6,3 @@ license = "MIT OR Apache-2.0"
 description = "if mkdir and cd were mixed together"
 
 [dependencies]
-anyhow = "1.0"
