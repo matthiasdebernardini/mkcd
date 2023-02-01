@@ -1,11 +1,9 @@
 [package]
 name = "mkcd"
-version = "0.5.0"
+version = "0.6.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
-description = "Makes a directory then cd's into it"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "if mkdir and cd were mixed together"
 
 [dependencies]
 anyhow = "1.0"
